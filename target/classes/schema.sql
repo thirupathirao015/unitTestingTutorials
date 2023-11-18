@@ -1,0 +1,1 @@
+create table item (id integer not null, name char(255), price integer not null, quantity integer not null, primary key (id));
